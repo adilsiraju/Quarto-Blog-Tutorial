@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Learn Quarto"
+  title: "My Data Science Blog"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +11,7 @@ website:
         text: Blog
       - href: about.qmd
         text: About
-  site-url: "https://adilsiraju.github.io/Quarto-Blog-Tutorial/"
+  site-url: "https://username.github.io/blog-name/"
 
 format:
   html:

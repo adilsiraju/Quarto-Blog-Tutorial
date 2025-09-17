@@ -1,22 +1,25 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
-### 👋 Hello, I'm Mohd. Adil
+### 👋 Hello!
 
-![Profile Picture](images/adil.jpg){width=150px style="border-radius:50%"}
+![Profile Picture](images/profile.jpg){width=150px style="border-radius:50%"}
 
-I’m a **B.Tech graduate in Artificial Intelligence & Machine Learning (First Class with Distinction)**, currently job-hunting and building projects in **machine learning, deep learning, and data analytics**.  
+Welcome to my data science blog! I'm passionate about:
 
-My focus:
-- ✅ Building impactful AI/ML projects  
-- ✅ Sharpening data science & analytics skills  
-- ✅ Preparing for opportunities in **Dubai** and beyond  
+- 📊 Data Analysis & Visualization
+- 🤖 Machine Learning
+- 📈 Statistical Modeling
+- 🔍 Data Exploration
+
+I created this blog to share my learning journey and projects in data science.
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect
 
-- 📧 [Email Me](mailto:mohdadilsiraju@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adilsiraju)  
-- 🐙 [GitHub](https://github.com/adilsiraju)  
+- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/username)
+- 🐙 [GitHub](https://github.com/username)
+- 🐦 [Twitter](https://twitter.com/username)  

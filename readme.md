@@ -1,82 +1,50 @@
 # 🚀 Quarto Blog Template
 
-Easily create and deploy a data science blog with Jupyter notebooks + Quarto.
+Turn your Jupyter notebooks into a beautiful blog. Write in notebooks, push to GitHub, and your site auto-deploys with GitHub Actions.
+
+## 🎯 Features
+- 📝 Write posts in Jupyter notebooks
+- 🎨 Customizable Quarto theme
+- 🚀 Automatic deploys to GitHub Pages
+- 🔍 Built-in search and categories
+- 📱 Mobile-friendly
 
 ## ⚡ Quick Start
-
-1. **Clone & Setup**
-
+1. Clone and open the project
    ```bash
-   git clone https://github.com/adilsiraju/Quarto-Blog-Tutorial.git my-blog
+   git clone https://github.com/username/your-blog.git my-blog
    cd my-blog/learn-quarto
    ```
-
-2. **Write & Preview**
-
+2. Write and preview locally
    ```bash
    # Add .ipynb files to posts/
-   quarto preview   # open http://localhost:4200
+   quarto preview  # opens http://localhost:4200
    ```
-
-3. **Deploy**
-
+3. Deploy
    ```bash
-   git push   # Site auto-updates via GitHub Actions
+   git add . && git commit -m "Update blog" && git push
    ```
 
 ## 📝 Writing Posts
-
 1. Create a notebook in `posts/`
-2. Add metadata:
-
+2. Add metadata at the top:
    ```yaml
    ---
    title: "Your Post Title"
    date: "YYYY-MM-DD"
+   categories: [example]
    ---
    ```
 
 ## ⚙️ Setup Checklist
+- [ ] Install Quarto: https://quarto.org/docs/get-started/
+- [ ] Update `_quarto.yml` (title, navbar, theme)
+- [ ] Edit `about.qmd` and `index.qmd`
+- [ ] In GitHub → Settings → Pages: Source = GitHub Actions
 
-* [ ] Install [Quarto](https://quarto.org/docs/get-started/)
-* [ ] Update `_quarto.yml` (title, theme)
-* [ ] Edit `about.qmd` and `index.qmd`
-* [ ] Enable GitHub Pages (Settings → Pages → Source: GitHub Actions)
+## � Useful Links
+- Quarto Guide: https://quarto.org/docs/guide/
+- Jupyter: https://jupyter.org/
+- GitHub Pages: https://docs.github.com/pages
 
-## 🔄 Workflow
-
-1. Write in Jupyter Notebook (`.ipynb`).
-2. Commit & push to GitHub.
-3. GitHub Actions:
-
-   * Builds Quarto site
-   * Converts notebooks to blog posts
-   * Publishes to GitHub Pages
-
-Live site: `https://<username>.github.io/<repo>/`
-
-## ✅ What’s Done
-
-* Installed Quarto (`quarto check`)
-* Created Quarto project (`quarto create project website myblog`)
-* Verified local build (`quarto render`, `quarto preview`)
-* GitHub repo initialized & pushed
-* Notebook support added (place `.ipynb` in `posts/`)
-* GitHub Actions workflow setup for publishing
-* GitHub Pages enabled (branch: `gh-pages`)
-
-## 🔜 Next Steps
-
-* Add more `.ipynb` notebooks in `posts/`
-* Customize site: navbar, theme, about page
-
-## 📌 Notes
-
-* Local preview: `quarto preview`
-* Output folder: `_site/` (auto-generated)
-* Published site: `https://<username>.github.io/<repo>/`
-
-## 📚 Resources
-
-* [Quarto Docs](https://quarto.org/docs/guide/)
-* [Jupyter Docs](https://jupyter.org/)
+Sample post: `posts/sample-analysis.ipynb`

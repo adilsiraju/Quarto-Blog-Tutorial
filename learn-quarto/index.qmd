@@ -1,7 +1,14 @@
 ---
-title: "Learn Quarto"
+title: "Welcome to My Data Science Blog"
 ---
 
-This is a Quarto website.
+## 👋 Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is where I share my data science journey, including:
+
+- 📊 Data Analysis Projects
+- 🤖 Machine Learning Experiments
+- 📝 Technical Tutorials
+- 💡 Learning Resources
+
+Check out my latest posts in the [Blog](posts/index.qmd) section!
