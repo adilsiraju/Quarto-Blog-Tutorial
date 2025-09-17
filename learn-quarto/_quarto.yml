@@ -11,6 +11,7 @@ website:
         text: Blog
       - href: about.qmd
         text: About
+  site-url: "https://adilsiraju.github.io/Quarto-Blog-Tutorial/"
 
 format:
   html:
