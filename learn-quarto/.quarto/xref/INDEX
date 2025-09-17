@@ -7,5 +7,11 @@
   },
   "posts/about.qmd": {
     "about.html": "22db9cde"
+  },
+  "posts/hello.ipynb": {
+    "hello.html": "78df35a4"
+  },
+  "posts/index.qmd": {
+    "index.html": "e3df0a01"
   }
 }

@@ -1,0 +1,14 @@
+---
+title: "Blog Posts"
+listing:
+  contents: "."
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 10
+  feed: true
+---
+
+Welcome to my blog! Here you'll find all my latest posts and tutorials.
