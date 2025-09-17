@@ -20,3 +20,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    code-fold: true
+    html-math-method: katex
+    dependencies:
+      - plotly
