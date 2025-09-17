@@ -1,5 +1,22 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+### 👋 Hello, I'm Mohd. Adil
+
+![Profile Picture](images/adil.jpg){width=150px style="border-radius:50%"}
+
+I’m a **B.Tech graduate in Artificial Intelligence & Machine Learning (First Class with Distinction)**, currently job-hunting and building projects in **machine learning, deep learning, and data analytics**.  
+
+My focus:
+- ✅ Building impactful AI/ML projects  
+- ✅ Sharpening data science & analytics skills  
+- ✅ Preparing for opportunities in **Dubai** and beyond  
+
+---
+
+## 🌍 Connect with Me
+
+- 📧 [Email Me](mailto:mohdadilsiraju@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adilsiraju)  
+- 🐙 [GitHub](https://github.com/adilsiraju)  

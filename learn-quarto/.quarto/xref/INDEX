@@ -4,5 +4,8 @@
   },
   "index.qmd": {
     "index.html": "00ddd742"
+  },
+  "posts/about.qmd": {
+    "about.html": "22db9cde"
   }
 }

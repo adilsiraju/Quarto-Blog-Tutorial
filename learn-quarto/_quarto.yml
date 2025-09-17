@@ -7,7 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: posts/
+        text: Blog
+      - href: about.qmd
+        text: About
 
 format:
   html:
@@ -16,6 +19,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
