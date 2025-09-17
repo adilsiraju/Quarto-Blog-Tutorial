@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Blog Posts",
+    "objectID": "posts/try2.html",
+    "href": "posts/try2.html",
+    "title": "Blog 2",
     "section": "",
-    "text": "Welcome to my blog! Here you’ll find all my latest posts and tutorials.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello World!\n\n\n\ntutorial\n\nquarto\n\n\n\nMy first blog post with Quarto and Jupyter\n\n\n\n\n\nSep 17, 2025\n\n\nAdil\n\n\n\n\n\nNo matching items"
+    "text": "name = 'Adil'\n\n\nprint(f'this is a blog by {name}')\n\nthis is a blog by Adil"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learn Quarto",
+    "objectID": "posts/hello.html",
+    "href": "posts/hello.html",
+    "title": "Hello World!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my first blog post using Quarto and Jupyter notebooks!\n\nprint('Hello, World!')\n\nHello, World!"
   },
   {
     "objectID": "about.html",
@@ -28,17 +28,17 @@
     "text": "🌍 Connect with Me\n\n📧 Email Me\n\n💼 LinkedIn\n\n🐙 GitHub"
   },
   {
-    "objectID": "posts/hello.html",
-    "href": "posts/hello.html",
-    "title": "Hello World!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learn Quarto",
     "section": "",
-    "text": "Welcome to my first blog post using Quarto and Jupyter notebooks!\n\nprint('Hello, World!')\n\nHello"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "posts/hello.html#hello",
-    "href": "posts/hello.html#hello",
-    "title": "Hello World!",
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog Posts",
     "section": "",
-    "text": "Welcome to my first blog post using Quarto and Jupyter notebooks!\n\nprint('Hello, World!')\n\nHello"
+    "text": "Welcome to my blog! Here you’ll find all my latest posts and tutorials.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog 2\n\n\n\ntutorial\n\nquarto\n\n\n\nBlog post with Quarto and Jupyter - Day2\n\n\n\n\n\nSep 18, 2025\n\n\nAdil\n\n\n\n\n\n\n\n\n\n\n\n\nHello World!\n\n\n\ntutorial\n\nquarto\n\n\n\nMy first blog post with Quarto and Jupyter\n\n\n\n\n\nSep 17, 2025\n\n\nAdil\n\n\n\n\n\nNo matching items"
   }
 ]

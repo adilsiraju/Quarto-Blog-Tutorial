@@ -13,5 +13,8 @@
   },
   "posts/index.qmd": {
     "index.html": "e3df0a01"
+  },
+  "posts/try2.ipynb": {
+    "try2.html": "6ebb3497"
   }
 }
